@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phonebooks>
+<phonebook owner="258"><contact><category>0</category><person><realName>1</realName></person><telephony
+nid="3"><number type="home" prio="1" id="0">0043720775086</number><number
+type="home" id="2">0521494583</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1538488809</mod_time><uniqueid>15</uniqueid></contact></phonebook>
+</phonebooks>
